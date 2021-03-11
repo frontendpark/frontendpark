@@ -1,4 +1,6 @@
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### 💻 Jaewoon Park
+💿 currently learning React, TypeScript, Figma.
 
 <!--
 **frontendpark/frontendpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
