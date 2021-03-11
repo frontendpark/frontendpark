@@ -1,4 +1,4 @@
-### Lorem ipsum dolor sit amet! 🥷
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 <!--
 **frontendpark/frontendpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
