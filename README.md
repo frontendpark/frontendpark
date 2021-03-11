@@ -1,6 +1,6 @@
 
-💿 I'm currently learning React, TypeScript, Figma.\
-🥯 I'm currently into blueberry bagles...
+💿 I'm currently learning __React__, __TypeScript__, __Figma__.\
+🥯 I'm currently into __blueberry bagles__...
 
 
 <!--
