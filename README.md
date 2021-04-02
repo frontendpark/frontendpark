@@ -1,3 +1,8 @@
+```
+💣 프론트엔드 개발 전문가가 되고 싶은 박재운입니다.
+```
+[📒 Notion](https://www.notion.so/8ceb5fdb216140f7b5dbf4ad58cb81bb) : TIL을 비롯한 개발 노트 \
+[📼 YouTube](https://www.youtube.com/channel/UC1GpSt5NWANSJWB2wzJQK6w) : 홈메이드 괴짜 비디오
 
 
 
