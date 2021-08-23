@@ -3,9 +3,11 @@
 ```
 🥷 Front-End kid becoming an expert
 🌱 Proudly Vegan since 2018.05
+📏 An extreme minimalist
 ```
 
 ```
 🥷 프론트엔드 전문가가 되고 싶은 박재운입니다.
 🌱 2018년 5월부터 채식을 실천하고 있습니다.
+📏 군더더기 없는 깔끔함을 추구합니다.
 ```
